@@ -7,6 +7,7 @@
       "github_user_id": 133344217
     }
   ],
+  "_comment": "maintainers will be emailed if a BCR release fails; add additional maintainers as needed",
   "repository": [
     "github:google/flatbuffers"
   ],
